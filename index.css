@@ -49,6 +49,10 @@ a:hover {
     .project-grid {
         grid-template-columns: 1fr;
     }
+
+    .profile-picture {
+        margin-right: 0;
+    }
 }
 
 /* Header */
